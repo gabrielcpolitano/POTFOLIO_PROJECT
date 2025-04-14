@@ -1,0 +1,38 @@
+1. Printing a Message
+Write a program that prints the message "Hello, World!" to the screen. Experiment with different variations of strings
+
+2. Variables and Data Types
+Create variables of different data types (e.g., , , , ) and print their values.
+
+3. Basic Arithmetic
+Write a program that takes two numbers as input, performs addition, subtraction, multiplication, and division, and prints the results.
+
+4. If Statements
+Write a program that checks whether a given number is even or odd using an  statement.
+
+5. Loops
+Create a loop that prints the numbers from 1 to 10, using both a  loop and a  loop.
+
+6. Functions
+Define a function that takes two numbers as arguments and returns their sum. Test the function by calling it with different inputs
+
+7. String Manipulation
+Write a program that takes a user's input string and:
+- Converts it to uppercase.
+- Reverses the string.
+- Counts the number of characters in it.
+
+8. Lists and Indexing
+Create a list of five items (e.g., fruits or numbers). Write code to:
+- Access and print the first and last items.
+- Add a new item to the list.
+- Remove an item from the list.
+
+9. Simple Dictionary
+Create a dictionary with keys as names of people and values as their ages. Write a program to:
+- Print all the keys and values.
+- Add a new person to the dictionary.
+- Update the age of an existing person.
+
+10. Error Handling
+Write a program that takes a number as input and divides 100 by that number. Handle the case where the input is zero, and print an error message instead.

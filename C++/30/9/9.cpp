@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "(*-*)" << endl;
+  cout << "My favorite color is RED!" << endl;
   return 0;
 }

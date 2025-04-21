@@ -1,9 +1,8 @@
 #include <iostream>
-using namespace std;
 
 int main() {
   int a = 2;
-  int b = 30;
-  cout << a * b << endl;
+  int b = 3;
+  std::cout << a * b << std::endl;
   return 0;
 }

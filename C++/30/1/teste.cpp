@@ -2,11 +2,9 @@
 // Write a program that prints the message "Hello, World!" to the screen. Experiment with different variations of strings.
 
 #include <iostream>
+using namespace std;
 
-int main() {
-    std::cout << "Hello, World" << std::endl;
-    std::cout << "Hello, Universe!" << std::endl;
-    std::cout << "Welcome to learning C++!" << std::endl;
-
+int main(){
+    cout << "Hello, World!" << endl;
     return 0;
 }

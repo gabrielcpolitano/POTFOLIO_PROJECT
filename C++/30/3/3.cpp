@@ -15,6 +15,6 @@ int main() {
 using namespace std;
 
 int main(){
-    cout << "Hello, World!" << endl;
+    cout << "c++ is simple" << endl;
     return 0;
 }

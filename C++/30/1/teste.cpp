@@ -13,6 +13,6 @@ int main(){
 using namespace std;
 
 int main(){
-    cout << "Hello, World!" << endl;
+    cout << "Title of the movie is Jump!" << endl;
     return 0;
 }

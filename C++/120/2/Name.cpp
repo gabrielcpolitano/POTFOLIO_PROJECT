@@ -1,4 +1,3 @@
-// name exercise
 #include <iostream>
 
 int main() {

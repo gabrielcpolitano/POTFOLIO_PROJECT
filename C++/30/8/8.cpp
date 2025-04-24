@@ -1,3 +1,4 @@
+// number exercise
 #include <iostream>
 using namespace std;
 
@@ -13,4 +14,13 @@ int main() {
   cout << 9 << endl;
   cout << 10 << endl;
   return 0;
+}
+
+// acoustic exercise
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout << "Strumming the acoustic strings..." << endl;
+    return 0;
 }

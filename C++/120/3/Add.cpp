@@ -1,4 +1,3 @@
-// sum exercise
 #include <iostream>
 
 int main() {

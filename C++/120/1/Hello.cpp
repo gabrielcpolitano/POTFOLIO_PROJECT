@@ -1,4 +1,3 @@
-// hello exercise
 #include <iostream>
 
 int main() {
